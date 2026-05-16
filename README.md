@@ -1,10 +1,10 @@
 # Date & Time UI
 
-A minimal UI experiment presenting date and time as a code-style object. Explores clean JavaScript Date handling and typography-driven design without frameworks.
+Shows date and time as a code object. Vanilla JavaScript experiment with typography.
 
 ## 🎨 About
 
-This experimental UI concept displays current date and time in a code-like format, focusing on clean state management, render flow, and typography-driven aesthetics.
+Displays current date/time in a code-like format. Just playing with JavaScript Date and monospace fonts. No frameworks.
 
 ## ✨ Features
 
